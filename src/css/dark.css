@@ -16,14 +16,6 @@ body.theme-dark {
 	background-color: rgba(249, 249, 250, 0.25);
 }
 
-.theme-dark #newGroup {
-	background-image: url(/icons/plus_light.svg);
-}
-
-.theme-dark #settings {
-	background-image: url(/icons/preferences_light.svg);
-}
-
 .theme-dark #pinnedTabs {
 	border-color: rgba(249, 249, 250, 0.2);
 }
